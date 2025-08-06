@@ -1,5 +1,10 @@
 # Övning 3
 
+### Task 3
+- If
+- Exceptions
+- Import
+
 ### Diskussion
 - Vad betydde import? Och hur används det?
 - Vad betydde try, catch och throw? Hur används dessa ? Varför?
@@ -22,6 +27,7 @@ for(int i = 0; i < 10; i++){
 }
 ```
 
+### Uppgift
 Öppna sedan Loops.java och gör:
 - skriv ut resultatet av print 1, 2 och 3
 - fizzbuzz (Om någon är klar tidig fizzbuzzrizz)

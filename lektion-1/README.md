@@ -1,5 +1,9 @@
 # Övning 1
 
+### Task 1
+- Java, grunder
+- Git
+
 ### Diskussion
 - Har det gått bra med task-1?
 - Har ni fått Java att funka, vad måste man göra för att skriva "Hello World!"
@@ -27,6 +31,7 @@ public static void main(String[] args) {
 Vad är en klass?
 - class
    - field (= variabel som är bunden till en klass)
+      - Datatyper
    - method (= funktion bunden till en klass)
 Se Car.java
 

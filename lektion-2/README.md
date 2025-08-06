@@ -1,5 +1,10 @@
 # Övning 2
 
+### Task 2
+- Indamon (klasser)
+- Klass, fält, konstruktor
+- Variable shadowing
+
 ### Diskussion
 - Vad är en klass
 
