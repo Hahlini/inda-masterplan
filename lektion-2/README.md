@@ -17,6 +17,15 @@
     ```
 
 ### Presentation
+1. Klassen och fält
+    - Varför dessa datatyper?
+    - Varför är det smidigt att lagra indamons som en klass?
+2. Konstruktor printInfo
+    - Vad är en konstruktor
+    - Varför är de smidiga?
+3. Variable Shadowing
+    - Kan du fixa kod-exempelna i uppgiften?
+    - Vad betyder this?
 
 ### Lektion
 - if-satser
@@ -55,4 +64,4 @@ Debugging:
 - Stilfel
 
 ### Avslutande
-Köra flera fider samtidigt?
+Köra flera filer samtidigt?
