@@ -1,6 +1,6 @@
 public class Car {
-    private String regNummer;
-    private int speed;
+    public String regNummer;
+    public int speed;
 
     //Vad är en konstruktor?
     
@@ -22,10 +22,14 @@ public class Car {
         return "Vroooom... \nThe car: " + regNummer + " went at " + speed +  "km/h";
     }
 
+    public void accelerate () {
+        speed++;
+    }
+
     public static void main(String[] args) {
         //new Car??
         Car car = new Car();
-        car.setSpeed(30);
+        car.speed = 30;
         car.setRegNummer("TVG001");
 
         System.out.println(car.makeCarGo());

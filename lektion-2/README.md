@@ -6,7 +6,17 @@
 - Variable shadowing
 
 ### Diskussion
-- Vad är en klass
+- Vad är en klass?
+    - Vad är ett fält / attribut?
+    - Vad är en Metod?
+    - Vad är en konstruktor?
+    - Vad är en instans eller objekt?
+    - Hur ska man tolka punkten "." i:
+    ```java 
+    indamon.heal(10);
+    ```
+
+### Presentation
 
 ### Lektion
 - if-satser
@@ -45,4 +55,4 @@ Debugging:
 - Stilfel
 
 ### Avslutande
-Köra flera tider samtidigt?
+Köra flera fider samtidigt?

@@ -1,6 +1,6 @@
 public class If {
     public static void main(String[] args) {
-        int pin = 1235
+        int pin = 1235;
 
         if (pin == 1234){
             System.out.println("Logged in");
