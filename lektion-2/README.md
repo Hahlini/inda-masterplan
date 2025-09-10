@@ -22,9 +22,7 @@
         int sum = a + b;
         return sum;
     }
-    ```
-    Eller:
-    ```java
+    // Eller:
     public int sum(int a, int b) {
         return a + b;
     }
@@ -35,11 +33,9 @@
     public int average(int a, int b) {
         return (a + b)/2
     }
-    ```
-    Eller:
-    ```java
+    // Eller:
     public int average(int a, int b) {
-        return (a + b)/2
+        return (a + b)/2.0
     }
     ```
     
