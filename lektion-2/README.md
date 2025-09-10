@@ -15,6 +15,36 @@
     ```java 
     indamon.heal(10);
     ```
+- Från task 1:
+    Vanliga elevsvar hur tycker ni man ska göra? (fördelar/nackdelar)
+    ```java
+    public int sum(int a, int b) {
+        int sum = a + b;
+        return sum;
+    }
+    ```
+    Eller:
+    ```java
+    public int sum(int a, int b) {
+        return a + b;
+    }
+    ```
+    ***
+    Är det någon skillnad på dessa funktioner?
+    ```java
+    public int average(int a, int b) {
+        return (a + b)/2
+    }
+    ```
+    Eller:
+    ```java
+    public int average(int a, int b) {
+        return (a + b)/2
+    }
+    ```
+    
+
+
 
 ### Presentation
 1. Klassen och fält
