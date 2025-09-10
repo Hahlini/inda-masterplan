@@ -30,11 +30,11 @@
     ***
     Är det någon skillnad på dessa funktioner?
     ```java
-    public int average(int a, int b) {
+    public double average(int a, int b) {
         return (a + b)/2
     }
     // Eller:
-    public int average(int a, int b) {
+    public double average(int a, int b) {
         return (a + b)/2.0
     }
     ```
