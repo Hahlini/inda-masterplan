@@ -2,6 +2,7 @@ import java.lang.Math;
 
 public class Circle {
     static final double PI = Math.PI; 
+    static final double ALLOWED_ERROR = 1e-9; 
     int xCoordinate;
     int yCoordinate;
     double radius;
@@ -23,7 +24,7 @@ public class Circle {
     }
 
     public boolean isSameSize(Circle otherCircle){
-        return this.radius == otherCircle.radius;
+        return Math.abs(this.radius - otherCircle.radius) <= ALLOWED_ERROR;
     }
 
     public double distanceToOtherCircle(Circle otherCircle) {
@@ -59,7 +60,7 @@ public class Circle {
         System.out.printf("The blue circle is the same size as the red one: \n%B\n\n", blueCircle.isSameSize(redCircle));
         // TRUE
 
-        System.out.printf("The distance between blue and red is: %3.2f\n\n", blueCircle.distanceToOtherCircle(redCircle));
+        System.out.printf("The distance between blue and red is: \n%3.2f\n\n", blueCircle.distanceToOtherCircle(redCircle));
         // 1.40
 
         System.out.println("Resizing blue by 6.40/5.0...");

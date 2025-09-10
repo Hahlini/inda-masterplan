@@ -15,6 +15,9 @@
     ```java 
     indamon.heal(10);
     ```
+
+***
+
 - Från task 1:
     Vanliga elevsvar hur tycker ni man ska göra? (fördelar/nackdelar)
     ```java
@@ -91,3 +94,4 @@ Debugging:
 
 ### Avslutande
 Köra flera filer samtidigt?
+(Coordinate och Example)

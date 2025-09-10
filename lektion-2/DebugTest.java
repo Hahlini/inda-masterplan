@@ -16,7 +16,7 @@ public class circle {
     }
 
     public double circumference(){
-      return (3.1415 * radius) << 1;
+      return 2(3.1415 * radius);
     }
 
     public bool isSameSize(Circle otherCircle){
@@ -48,10 +48,10 @@ public class circle {
 * The main method will NOT contain errors! It is for you to test if the program behaves as expected.
 */
     public static void main(String[] args) {
-        Circle blueCircle = new Circle(0, 0, 5.0, blue);
-        Circle redCircle = new Circle(9, 7, 5.0, red);
-        Circle greenCircle = new Circle(-8, 4, 1, green);
-        Circle yellowCircle = new Circle(-8, 4, 2.5, yellow);
+        Circle blueCircle = new Circle(0, 0, 5.0, "blue");
+        Circle redCircle = new Circle(9, 7, 5.0, "red");
+        Circle greenCircle = new Circle(-8, 4, 1, "green");
+        Circle yellowCircle = new Circle(-8, 4, 2.5, "yellow");
 
         System.out.printf("Area of circles: \nblue  = %3.2f \ngreen = %3.2f\n\n", blueCircle.area(), greenCircle.area());
         // Blue = 78.54 and Green = 3.14
