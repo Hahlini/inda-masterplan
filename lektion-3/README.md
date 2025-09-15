@@ -15,10 +15,15 @@ Vi ska gissa namnen :)
 - Vad betydde try, catch och throw? Hur används dessa? Varför?
 
 ### Redovisningar
-1. Triangle
+1. Triangle: konstruktor & validTriangle
    	- Förklara hur din Triangle-klass fungerar
-	- Exceptions (konstruktor)
-	- Import
+	- Hur fungerar konstruktorn?
+	- Vad gör "throw" för något?
+2. Triangle: getArea & getTriangleType
+	- Förklara if-satserna i getTriangleType
+		- Vad gör alla tecken?
+	- Vad är en import?
+	- Beskriv logiken bakom Math.sqrt
 3. Rectangle
    	- Förklara hur din Rectangle-klass fungerar
 	- Hur gjorde du reverse engineering?
