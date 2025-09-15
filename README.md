@@ -3,22 +3,22 @@
 
 ## Lektionsupplägg
 
-### Hur gick förra tasken
+### Diskussion (10 min)
 Diskutera i grupper om 3-4
 
-### Presentation av lösningar
+### Presentation av lösningar (15 min)
 - Presentationer av framslumpade studenter
 - Diskutera mer knepigheter
 
-### Lektion
+### Lektion (resteeen)
 
 ### PAUS
 
-### Övningar!
+### Övningar! (30 min)
 - Klura på övningar i par (i de flesta fallen)
 - Kanske diskutera det i helgrupper
 
-### Gå igenom nästa task
+### Gå igenom nästa task (15 min)
 - Vad ska de göra?
 - Vad är det för ämnen och varför är de användbara
 
