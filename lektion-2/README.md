@@ -34,11 +34,11 @@
     Är det någon skillnad på dessa funktioner?
     ```java
     public double average(int a, int b) {
-        return (a + b)/2
+        return (a + b)/2;
     }
     // Eller:
     public double average(int a, int b) {
-        return (a + b)/2.0
+        return (a + b)/2.0;
     }
     ```
     

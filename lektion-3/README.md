@@ -1,13 +1,18 @@
 # Övning 3
 
+### Ånnu en namnrunda!
+Vi ska gissa namnen :)
+
 ### Task 3
 - If
 - Exceptions
 - Import
 
 ### Diskussion
+- När ska vi använda getters och setters? När ska vi inte använda dem?
+- Hur måste man göra för att köra fler än en fil?
 - Vad betydde import? Och hur används det?
-- Vad betydde try, catch och throw? Hur används dessa ? Varför?
+- Vad betydde try, catch och throw? Hur används dessa? Varför?
 
 ### Lektion
 - Loopar
@@ -35,4 +40,5 @@ for(int i = 0; i < 10; i++){
 
 ### Slutligen
 Var noggranna, gränsfall
+LÄS INSTRUKTIONERNA
 12:59 -> 1:00
