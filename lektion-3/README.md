@@ -19,6 +19,7 @@ Vi ska gissa namnen :)
    	- Förklara hur din Triangle-klass fungerar
 	- Hur fungerar konstruktorn?
 	- Vad gör "throw" för något?
+	- Svara på exemplet i uppgiften
 2. Triangle: getArea & getTriangleType
 	- Förklara if-satserna i getTriangleType
 		- Vad gör alla tecken?
