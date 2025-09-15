@@ -81,7 +81,10 @@ public class Loops {
   
     public static int digitalRoot(int n){
         /*
-         * Returnera digitala roten av ett tal dvs...
+         * Returnera digitala roten av ett tal dvs:
+         * ta siffersumman av ett tal om och om igen 
+         * tills du får ett tal mindre än 10. Det
+         * blir den digitala roten. (2 i exemplet nedan)
          * 18920
          * - > 1 + 8 + 9 + 2 + 0
          * - > 20
