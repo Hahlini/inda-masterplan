@@ -6,6 +6,7 @@
 - Import
 
 ### Diskussion
+- När ska vi använda getters och setters? När ska vi inte använda dem?
 - Vad betydde import? Och hur används det?
 - Vad betydde try, catch och throw? Hur används dessa ? Varför?
 
