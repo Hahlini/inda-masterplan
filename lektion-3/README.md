@@ -14,6 +14,16 @@ Vi ska gissa namnen :)
 - Vad betydde import? Och hur används det?
 - Vad betydde try, catch och throw? Hur används dessa? Varför?
 
+### Redovisningar
+1. Triangle
+       - Förklara hur din Triangle-klass fungerar
+       - Exceptions (konstruktor)
+       - Import
+3. Rectangle
+       - Förklara hur din Rectangle-klass fungerar
+       - Hur gjorde du reverse engineering?
+       - Hur fungerar getters och setters utanför klassen?
+
 ### Lektion
 - Loopar
 
