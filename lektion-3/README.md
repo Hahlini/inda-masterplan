@@ -35,7 +35,7 @@ for(int i = 0; i < 10; i++){
 ### Uppgift
 Öppna sedan Loops.java och gör:
 - skriv ut resultatet av print 1, 2 och 3
-- fizzbuzz (Om någon är klar tidig fizzbuzzrizz)
+- fizzbuzz (Om någon är klar tidig fizzbuzzrizz, dela 7)
 - gör sedan digital root
 
 ### Slutligen
