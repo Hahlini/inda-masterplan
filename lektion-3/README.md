@@ -16,13 +16,13 @@ Vi ska gissa namnen :)
 
 ### Redovisningar
 1. Triangle
-       - Förklara hur din Triangle-klass fungerar
-       - Exceptions (konstruktor)
-       - Import
+   	- Förklara hur din Triangle-klass fungerar
+	- Exceptions (konstruktor)
+	- Import
 3. Rectangle
-       - Förklara hur din Rectangle-klass fungerar
-       - Hur gjorde du reverse engineering?
-       - Hur fungerar getters och setters utanför klassen?
+   	- Förklara hur din Rectangle-klass fungerar
+	- Hur gjorde du reverse engineering?
+	- Hur fungerar getters och setters utanför klassen?
 
 ### Lektion
 - Loopar
