@@ -2,7 +2,7 @@ public class Loops {
 
     public void fizzBuzz(){
         /* 
-         * Skriv ut fizzbuzz för alla tal mellan 1-100
+         * Skriv ut alla tal mellan 1-100
          * Alla tal delbara på 3 ersätts med fizz
          * Alla tal delbara med 5 ersätts med buzz
          * tal delbara med båda skrivs: fizzbuzz

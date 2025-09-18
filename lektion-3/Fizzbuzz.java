@@ -13,10 +13,6 @@ public class Fizzbuzz {
         }
     }
 
-
-
-
-
         // for (int i = 0; i < 100; i++) {
         //     String s = "";
 
