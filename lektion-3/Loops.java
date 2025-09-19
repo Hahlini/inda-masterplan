@@ -1,6 +1,6 @@
 public class Loops {
 
-    public void fizzBuzz(){
+    public static void fizzBuzz(){
         /* 
          * Skriv ut alla tal mellan 1-100
          * Alla tal delbara på 3 ersätts med fizz

@@ -32,6 +32,9 @@ Vi ska gissa namnen :)
 
 ### Lektion
 - Loopar
+    - Live koda
+    - Indamon battle loop
+- Function overloading
 
 While:
 ```java
