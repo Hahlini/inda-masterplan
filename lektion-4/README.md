@@ -13,10 +13,30 @@
 - Feng shuie (kodstil)
 
 
-### Discussion
+### Diskussion
+- Setters: Varför är de användbara?
+    - Hur används de i Clock.java?
+- Vad finns det för loopar?
+    - Skillnader?
+    - När passar dem?
+    - Hitta på konkreta verkliga användningar av loopar av båda typerna.
+- Vad är String.format?
+    - Vad är den bra för?
 
+### Redovisningar
+1. Loopar
+    - Varför while / for?
+    - Hur många iterationer kör loopen
+2. Clock 4.3.1-4.3.4
+    - Hur validerar du input
+    - Vad function overloading
+    - Hur formaterar du din output
+3. Clock 4.3.5-4.3.6
+    - Vilka är de knepiga gränsfallen
+    - Hur har du hanterat dem
 
 ### Lektion
+- Live demo av att köra en fil från en annan
 - Förklara en array. Gärna med visuellt exempel
 ```java
 // ...          [0][1][2][3]
