@@ -20,10 +20,22 @@
 - Vad är egentligen skillnaden på Lists och ArrayLists? 
 - Vad är egentligen skillnaden på arrayer och ArrayLists? 
 - Vad betyder static?
-- Vad tror ni händer här: (Se PassByValue.java)
+- Vad händer i en for-each loop?
+```java
+public class ForEachLoop {
+  public static void main(String[] args) {
+    String[] people = ["Isak", "Johan", "Carl-Johan"];
+
+    for (String person : people) {
+      System.out.println("Hi " + person + "!")
+    }
+  }
+}
+```
 
 ### Redovisningar
 
 
 ### Lektion
 
+* Se passbyvalue
