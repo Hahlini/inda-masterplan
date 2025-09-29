@@ -32,6 +32,10 @@ public class ForEachLoop {
   }
 }
 ```
+- Vad betyder det när en datatyp har ```<>``` efter sig som exemplet nedan?
+```java
+ArrayList<Integer> numberList = new ArrayList<>();
+```
 
 ### Redovisningar
 
