@@ -38,10 +38,24 @@ ArrayList<Integer> numberList = new ArrayList<>();
 ```
 
 ### Redovisningar
-1. Arrays 5.0 - 5.5
-   - Arrays?
-2. Set Theory 5.6 - 5.10
-   - ArrayLists?
+1. Arrays 5.0 - 5.3
+  - Vad är funktion overloading?
+  - Hur vet du att funktionerna kommer returnera korrekt?
+  - Var är Integer.MAX_VALUE för något?
+    - Vad används den till?
+2. Arrays 5.4 - 5.5
+  - Hur vet du att funktionerna kommer returnera korrekt?
+  - Varför ska man returnera en kopia av arrayen?
+  - Arrayer kan inte ändra storlek, vad kan det orsaka för svårigheter?
+3. Set Theory 5.6 - 5.11
+  - Kan du motivera att dessa edgecases kommer funka korrekt?
+    U = universum
+    A ⋃ U = U
+    A ⋃ Ø = Ø
+    A ⋂ U = A
+    A ⋂ Ø = Ø
+  - Vad är fördelen med att använda ArrayLists här?
+
 
 ### Lektion
 
