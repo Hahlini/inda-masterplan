@@ -6,11 +6,11 @@
 - Static
 
 ### Ämnen
-- Innheritance 
+- Inheritance 
 - Random - andra biblotek
-- testning
-- Itterator
-- kopior?
+- Testning
+- Iterator
+- Kopior?
 
 
 ### Diskussion
