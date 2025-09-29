@@ -14,11 +14,16 @@
 
 
 ### Diskussion
-- Vad är en Array
-- Vad är en List
-- Vad är en ArrayList
-- Vad är egentligen skillnaden på Lists och ArrayLists 
-- Vad är egentligen skillnaden på arrayer och ArrayLists 
-- Vad betyder static
+- Vad är en Array?
+- Vad är en List?
+- Vad är en ArrayList?
+- Vad är egentligen skillnaden på Lists och ArrayLists? 
+- Vad är egentligen skillnaden på arrayer och ArrayLists? 
+- Vad betyder static?
 - Vad tror ni händer här: (Se PassByValue.java)
+
+### Redovisningar
+
+
+### Lektion
 
