@@ -38,7 +38,10 @@ ArrayList<Integer> numberList = new ArrayList<>();
 ```
 
 ### Redovisningar
-
+1. Arrays 5.0 - 5.5
+  - Arrays?
+2. Set Theory 5.6 - 5.10
+  - ArrayLists?
 
 ### Lektion
 
