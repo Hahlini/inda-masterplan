@@ -5,14 +5,13 @@ public class IsEven {
 
     public static void main(String[] args) {
         IsEven checker = new IsEven();
-
-        // om vi vill köra java IsEven 2+7?
-        // String.split()
         for (String string : args) {
             int number = Integer.parseInt(string);
             System.out.printf("%d is %s\n", number, checker.isEven(number) ? "even" : "odd");    
         }
 
+        // om vi vill köra java IsEven 2+7?
+        // String.split()
     }
 }
 
