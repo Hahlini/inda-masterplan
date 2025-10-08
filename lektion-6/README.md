@@ -10,7 +10,7 @@
 - Debugging
 - Deep copies
 - Iterators
-- *Optional*: Inheritance
+- Inheritance
 
 ### Diskussion
 - Vad är ```Random``` för något?
