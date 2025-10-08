@@ -74,19 +74,3 @@ java DnDdice 1d20 -> Rullar en 20 sidig tärning och returnerar resultatet.
 - HashMap
     - Telefonkatalog.java
 
-
-### Diskussion
-- Vad är en deep/shallow copy
-- Vad är en iterator.
-
-
-### Redovisningar
-- Docs
-    - Hur har du räknat ut de andra?
-- Dice
-    - Hur har du designat din Dice.java
-    - Hur funkar ______AdjacentRolls
-    - Vad händer i AdjacentRolls om tärningslistan har längd 1?
-- BiasedDice + Remove
-
-
