@@ -49,3 +49,5 @@ public class BiasedDice extends Dice { // New keyword: 'extends'
    - Varför kan du inte bara kalla ```System.out.println(new Dice());``` för att skriva ut värdet?
 
 ### Lektion
+- Om String.split() behöver vi gå igenom regex
+- Hashmap
