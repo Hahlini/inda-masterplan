@@ -3,6 +3,7 @@ public class IsEven {
         return x % 2 == 0;
     }
 
+    // Körs genom till exempel java IsEven 2 4 3;
     public static void main(String[] args) {
         IsEven checker = new IsEven();
         for (String string : args) {
