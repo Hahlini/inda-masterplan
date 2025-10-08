@@ -50,6 +50,7 @@ ArrayList<Integer> numberList = new ArrayList<>();
 3. Set Theory 5.6 - 5.11
   - Kan du motivera att dessa edgecases kommer funka korrekt?
     U = universum
+    Ø = tomma mängden
     A ⋃ U = U
     A ⋃ Ø = Ø
     A ⋂ U = A
