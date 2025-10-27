@@ -33,14 +33,15 @@ String[] b = text.split(".");
 3. Task 7.5 - 7.7
      - Hur gör du så att "hamlet" och "Hamlet" räknas som samma ord?
      - Hur hanterar du om ordet vi söker efter inte finns i texten?
-     - Vad är *casting* för något?
      - Vilken metod används för att få alla keys till en HashMap?
 
 ### Lektion
-
-
-### Uppgift?
-
-
-### Task 8: Spel????
 - Textbaserade spel
+    - Rum med olika aktiviteter
+    - Fria tyglar!
+
+### Uppgift
+- Hitta på en spelidé med din granne
+    - Vad för rum behövs?
+    - Vad händer i rummen?
+    - Idétorka? Kolla in 8.1 för förslag!
