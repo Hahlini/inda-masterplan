@@ -28,12 +28,14 @@ String[] b = text.split(".");
      - Vad gör String.split(" ")?
      - Bonus: Hur hade uppgiften förändrats om det fanns punkter i texten i hamlet.txt?
 2. Task 7.2 - 7.4
-     - Vilka nackdelar har en HashMap gentemot en vanlig LinkedList?
+     - Vilka nackdelar har en HashMap gentemot en vanlig ArrayList?
      - Hur räknar du antalet ord i texten?
 3. Task 7.5 - 7.7
      - Hur gör du så att "hamlet" och "Hamlet" räknas som samma ord?
      - Hur hanterar du om ordet vi söker efter inte finns i texten?
      - Vilken metod används för att få alla keys till en HashMap?
+
+map.keyset().size();
 
 ### Lektion
 - Textbaserade spel
@@ -45,3 +47,21 @@ String[] b = text.split(".");
     - Vad för rum behövs?
     - Vad händer i rummen?
     - Idétorka? Kolla in 8.1 för förslag!
+
+
+
+
+# Tema
+
+# Kort beskrivning
+
+# Hur man vinner
+
+# Hur man förlorar
+
+# Vilken klass ni tänker lägga till
+
+
+
+
+

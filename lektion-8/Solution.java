@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -18,7 +17,7 @@ public class Solution {
     static public List<Integer> getOddNumbers (List<Integer> list) {
         List<Integer> oddNumbers = new LinkedList<>();
         for (int i = 0; i < list.size(); i++) {
-            if (list.get(i) % 2 == 1) {
+            if (list.get(i) % 2 != 0) {
                 oddNumbers.add(list.get(i));
             }
         }
@@ -54,8 +53,9 @@ public class Solution {
 
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>(Arrays.asList(1, 3, 5, 7));
-        System.out.println(function(list));
+        List<Integer> list1 = Arrays.asList(-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5); 
 
+        System.out.println(function(list1));
     }
 
 }
