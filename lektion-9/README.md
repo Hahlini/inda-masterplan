@@ -53,6 +53,4 @@ public static int factorial(int n) {/* ... */}
 ### Gå igenom nästa task (15 min)
 - Vad ska de göra?
 - Vad är det för ämnen och varför är de användbara
-
-### Veckans något-kul-på-slutet
-- Veckans kodnyheter?
+    - Rekursion!
