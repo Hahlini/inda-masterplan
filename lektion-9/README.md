@@ -63,6 +63,17 @@ public static int factorial(int n) {/* ... */}
 ```
 - Implementera den igen men rekursivt
 
+- Implementera en palindrom-checker som kollar om en array av integers är palindrom eller inte.
+Använd hjälpmetoden `palindromeHelper`för att utföra rekursionen
+```java
+public static boolean palindrome(int[] array) {
+    return palindromeHelper(array, 0, array.length - 1)
+}
+
+public static boolean palindromeHelper(int[] array, int left, int right) {/* ... */}
+// Vad blir basfallet???
+```
+
 ### Gå igenom nästa task (15 min)
 - Vad ska de göra?
 - Vad är det för ämnen och varför är de användbara
