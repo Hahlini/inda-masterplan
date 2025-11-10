@@ -35,11 +35,24 @@ public void func() {
 ```
 Hur skriver vi detta som kod?
 
-![image](lagrida_latex_editor.png)
+$$
+f(n) =
+\begin{cases}
+1 & \text{if } n = 0 \\
+f(n - 1) + n & \text{if } n > 0
+\end{cases}
+$$
 
 Svårare exempel
 
-![image](lagrida_latex_editor2.png)
+$$
+fib(n) =
+\begin{cases}
+1 & \text{if } n = 0 \\
+1 & \text{if } n = 1 \\
+fib(n - 1) + fib(n - 2) & \text{if } n \geq 1
+\end{cases}
+$$
 
 ### PAUS
 
