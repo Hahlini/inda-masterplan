@@ -1,20 +1,26 @@
 # Övning 10
 
-### Diskussion
+### Diskussion (10 min)
+* Vad hindrar en rekursion från att köra oändligt?
+* När kan det vara lämpligt att använda rekursion?
+* Kan man skapa en instans av ```List```?
+* 
 
+### Presentation av lösningar (15 min)
+* 10-10.2
+    * Vad behöver man tänka på när man använder en Array till skillnad från en List?
+* 10.3-10.4
+    * 
 
-### Redovisningar
-
-
-## PAUS
-
+### PAUS
 
 ### Lektion
-Vad är en algoritm och vad är en datastruktur?
+* Vad är en algoritm?
+    * Binary search
+* Interface
+    * Comparable
+    * List
+    * Pjäs i schack
 
-Visa vad en sorterad lista är (basic)
-
-Hur skulle ni programmatiskt sortera en lista? (10 min i par)
-Diskutera i helklass.
-
-Jag pratar om insertion sort och selection sort. Hur skiljer de sig åt?
+### Uppgift
+Implementera ```Vehicle``` som Interface! Skapa två subklasser. Metoder ```drive()``` och ```getNumberOfWheels```.
