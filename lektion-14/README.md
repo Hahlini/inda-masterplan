@@ -1,5 +1,10 @@
 # inda-masterplan
 
+### Topics
+- Inheritance
+- Polymorphism
+- Linked Lists
+
 ### Diskussion
 - Ge ett exempel på när polymorfism är användbart
 - Vad är polymorfism?
@@ -20,4 +25,4 @@ Snacka om Stack-datastrukturen.
 - Vad är fördelar och nackdelar med att använda en Array eller en LinkedList för implementationen?
 
 ### Övning
-?????
+Implementera en doubly linked list om tid?
