@@ -1,4 +1,4 @@
-# inda-masterplan
+# Övning 14
 
 ### Topics
 - Inheritance
