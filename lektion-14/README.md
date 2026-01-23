@@ -6,8 +6,9 @@
 - Linked Lists
 
 ### Diskussion
-- Ge ett exempel på när polymorfism är användbart
+- Ge tre exempel på inheritance
 - Vad är polymorfism?
+- Ge ett exempel på när polymorfism är användbart
 - Vad krävs för fält för den grundläggande formen av en LinkedList?
 - Vad har en LinkedList för tidskomplexitet för operationen att hämta ett element på ett bestämt index?
 - Vad är fördelarna / nackdelarna med att använda en Array över en LinkedList?
