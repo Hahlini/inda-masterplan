@@ -25,6 +25,7 @@ Binary Search Tree! (BST)
     - No children
     - One child
     - Two children
-- Bonus: B-Tree, i.e. Balancing Treew
+- Bonus: B-Tree, i.e. Balancing Tree
+Visa: https://en.wikipedia.org/wiki/AVL_tree#/media/File:AVL_Tree_Example.gif
 
 ### Inda 25 Wrapped Kahoot!
