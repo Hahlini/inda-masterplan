@@ -15,9 +15,18 @@
 ### PAUS
 
 ### Lektion
-
 - Markdownformatering - fungerar ej som Docs
     - Line breaks
     - Listor
     - Tabeller
 
+
+### Övning
+- Markdown-workshop! Gör ett skelett till rapporten
+- Struktur:
+    1. Introduktion
+    2. Bakgrund
+    3. Metod
+    4. Resultat
+    5. Diskussion & Slutsatser
+- Gör tabeller och annat som är lite svårare nu! Dina kamrater och Isak kan hjälpa till!
