@@ -2,21 +2,27 @@
 
 ## Lektionsupplägg
 
-### Kahoot DD1338!
-- Grupper om 2-3 
-- Vi sätter dem i blandade grupper som en ice breaker?
-
 ### Diskussion
 - Beskriv vad Go är i en mening
-- Vad är parallellism?
+- Hur skiljer sig go från Java (eller andra programmeringsspråk ni använt förut)
+- Vad är skillnaden på parallelism och concurrency?
+- Hur funkar typsäkerhet i GO
 
-### Presentation av lösningar
-- palinda-1
+
+### Lektion
+- Visa våra kodexempel
+- Gå igenom basics för parallelism
+    - När avslutas programmet
+    - Vad är en waitgroup
+    - Vad är deadlock
 
 ### PAUS
 
-### Lektion
-- Flipped classroom där de får ställa frågor om Go?
+### Diskussion 2
+- Vad menas med högre ordningens funktion
+- Vad är ett deadlock
+- Vad är en channel
+- Vad är skillnaden på "Assign", "Declare" och "Initialize"
 
 ### Övning
-- Leksaksuppgift i Go, bygg vidare på palinda-1 typ
+- Jobba på era tasks, vi kan hjälpa till att få GO att funka!
