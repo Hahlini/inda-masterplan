@@ -1,5 +1,13 @@
 # PALINDA LEKTION 2
 
+## Diskussioner
+- Vad är en högre ordningens funktion?
+- Vad är skillnaden på parallelism och concurrency?
+- Hur funkar chanels i go?
+   - Vad gör `ch<- x`
+   - Vad gör `<-ch`
+- Hur kan man se till att et program inte avslutas tidigt?
+
 ## Redovisningar
 Gå ihop i grupper om 3, redovisa vars en deluppgift var (om överbliven kan fler redovisa sina orakel). Gå igenom och förklara koden du skrivit, och svara på frågorna efteråt.
 1. Task 1 - Debugging
