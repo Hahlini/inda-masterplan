@@ -6,7 +6,8 @@
 - Hur funkar chanels i go?
    - Vad gör `ch<- x`
    - Vad gör `<-ch`
-- Hur kan man se till att et program inte avslutas tidigt?
+   - Vad är lätt att göra fel på när man parallellprogrammerar?
+Hur kan man se till att ett program inte avslutas tidigt?
 
 ## Redovisningar
 Gå ihop i grupper om 3, redovisa vars en deluppgift var (om överbliven kan fler redovisa sina orakel). Gå igenom och förklara koden du skrivit, och svara på frågorna efteråt.
