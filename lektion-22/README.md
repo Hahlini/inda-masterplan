@@ -21,6 +21,7 @@
   - Vad är ett bra projekt?
   - Takeaways från textbaserade spelet i DD1337?
   - Tänk på scope, börja litet och bygg större i mån av tid
-  - Spana in *Isaks Häfte med Projektpitchar*$^(TM)$!
+  - Spana in *Isaks Häfte med Projektpitchar*$^{TM}$!
+  - Nya regler för AI, go crazy!
 - Projektet görs i grupper om 2!
-- Bolla med Johan på plats eller Isak på Discord!
+- Bolla med Johan och Isak om vad som är ett rimligt projekt!
