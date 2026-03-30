@@ -1,12 +1,7 @@
 # Palinda: Lektion 3
 
-## Diskussion - Palinda-3
-- Frågor här :)
-- 
-
-## Redovisningar
-- Grupper som ni sitter (3-4 pers)
-- Gå varvet runt och redovisa veckans task
+## Diskussion - Flipped classroom
+Har ni några frågor om uppgiften eller Go?
 
 ## Diskussion 2 - Go Takeaways / alternativt Kahoot på Go-koncept
 
@@ -17,11 +12,10 @@
 - Ska vi slå ihop våra Discordservrar nu?
 
 ## Projinda!
-- Brainstorma med grannarna intill
-  - Vad är ett bra projekt?
-  - Takeaways från textbaserade spelet i DD1337?
-  - Tänk på scope, börja litet och bygg större i mån av tid
-  - Spana in *Isaks Häfte med Projektpitchar*$^{TM}$!
-  - Nya regler för AI, go crazy!
-- Projektet görs i grupper om 2!
-- Bolla med Johan och Isak om vad som är ett rimligt projekt!
+Mål:
+- Gruppmatchmaking
+- Skapa en textfil med projektpitch
+  - Vad ska ni göra?
+  - Tydligt avgränsad MVP
+  - Bestäm vilket externt verktyg som ska användas
+- Få projektpitch godkänd av Johan / Isak
