@@ -18,6 +18,7 @@
 - Skapa matematiska funktioner!
 - Hur?
   - Skapa issue
+  - Få godkänt av Isak/Johan
   - Implementera!
 
 ## PAUS
