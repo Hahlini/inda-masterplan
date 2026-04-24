@@ -24,4 +24,11 @@ public class OpenSourceCalculator {
         return a - b;
     }
 
+    
+    /**
+     * @author Isak
+     */
+    static int multiply(int a, int b) {
+        return a * b;
+    }
 }
