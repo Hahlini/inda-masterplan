@@ -7,7 +7,7 @@
 ## Git!
 - Ladda ned någon annans arbete!
   - `git pull`
-  - `git rebase`
+  - `git rebase` // DET HÄR ÄR VÄLDIGT VIKTIGT
   - Exempel på merge conflict!
   - Exempel när det INTE blir merge conflict!
 - Git stash / pop
