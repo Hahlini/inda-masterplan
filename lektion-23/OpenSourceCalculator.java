@@ -16,6 +16,7 @@ public class OpenSourceCalculator {
     static int average (List<Integer> list) {
         return list.stream().reduce(0, (a,b) -> add(a, b))/list.size();
     }
+<<<<<<< HEAD
 
     /**
      * @author Johan
@@ -24,4 +25,13 @@ public class OpenSourceCalculator {
         return a - b;
     }
 
+=======
+    
+    /**
+     * @author Isak
+     */
+    static int multiply(int a, int b) {
+        return a * b;
+    }
+>>>>>>> bc1e466 (Add multiply to calculator)
 }
