@@ -1,6 +1,6 @@
 # AI-Användning i INDA
 
-## Genomgång - Varför finns vi när AI gör det?
+## Genomgång - Varför programmerar vi när AI gör det?
 - Ta exempel från Isaks bot-tävling
   - Isak skrev knappt en rad kod själv
   - Visa ett utdrag från claude code där roboten ställer tekniska frågor
