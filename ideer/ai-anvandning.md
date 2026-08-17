@@ -11,10 +11,10 @@
 
 ## Inlämningssystem
 Få studenterna att själva rangordna hur mycket AI de använt i sina inlämningar. 
-0. Ingen AI
-1. Kommentarer och formattering
-2. Skrivit lite kod (tester, någon rad här eller där)
-3. Skrivit en stor andel av koden
+- 0 - Ingen AI
+- 1 - Kommentarer och formattering
+- 2 - Skrivit lite kod (tester, någon rad här eller där)
+- 3 - Skrivit en stor andel av koden
 
 ## Ha begreppsquiz varje lektion för att kompensera för AI?
 - Idk, känns lite narc:igt men kanske nödvändigt?
