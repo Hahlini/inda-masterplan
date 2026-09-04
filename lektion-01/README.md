@@ -11,21 +11,7 @@
 - Vad är en variabel?
 - Vad är en return?
 - Vad är github för något?
-- Vilka tre git commandon måste ni köra och vad gör dem?
-
-```java
-public static void main(String[] args) {
-  // Create a new Arithmetic object
-  Arithmetic arithmetic = new Arithmetic();
-
-  // store the sum of 3 and 5 in a variable called "test"
-  int test = arithmetic.sum(3, 5);
-
-  // print the test variable
-  System.out.println("The value of 3 + 5 is:");
-  System.out.println(test);
-}
-```
+- Vilka git-kommandon har ni behövt köra för den här uppgiften? Vad gör de?
 
 ### Lektion
 Vad är en klass?
