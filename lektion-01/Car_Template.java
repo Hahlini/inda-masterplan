@@ -1,4 +1,4 @@
-public class Car {
+public class Car_Template {
     public String regNummer;
     public int speed;
 
@@ -28,7 +28,7 @@ public class Car {
 
     public static void main(String[] args) {
         //new Car??
-        Car car = new Car();
+        Car_Template car = new Car_Template();
         car.speed = 30;
         car.setRegNummer("TVG001");
 
