@@ -41,9 +41,6 @@
         return (a + b)/2.0;
     }
     ```
-    
-
-
 
 ### Presentation
 1. Klassen och fält
@@ -59,6 +56,7 @@
 ### Lektion
 - if-satser
     - Boolean datatypen?
+    - Se If.java
 - Debugging
     - Errors
     - Se Error.java
@@ -91,6 +89,11 @@ Debugging:
 - Syntax fel
 - Logiska fel
 - Stilfel
+
+Börja med:
+1. Notepad
+2. Vscode
+3. Fråga chat
 
 ### Avslutande
 Köra flera filer samtidigt?
