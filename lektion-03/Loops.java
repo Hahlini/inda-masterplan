@@ -1,31 +1,6 @@
+import java.util.Scanner;
+
 public class Loops {
-
-    public static void fizzBuzz(){
-        /* 
-         * Skriv ut alla tal mellan 1-100
-         * Alla tal delbara på 3 ersätts med fizz
-         * Alla tal delbara med 5 ersätts med buzz
-         * tal delbara med båda skrivs: fizzbuzz
-         * 1
-         * 2
-         * fizz
-         * 4
-         * buzz
-         * fizz
-         * 7
-         * 8
-         * fizz
-         * buzz
-         * 11
-         * fizz
-         * 13
-         * 14
-         * fizzbuzz
-         * 16
-         * ...
-         */
-    }
-
     
     /*
      * Vilka siffror kommer dessa loopar att printa?
@@ -92,23 +67,51 @@ public class Loops {
     }
 
   
-    public static int digitalRoot(int n){
+    public static int login(int n){
+        Scanner scanner = new Scanner(System.in); // En scanner som används för att läsa input från terminalen
+
+        String password = ""; // Bestäm ett bra lösenord;
+        String userInput = scanner.nextLine(); // Använd scanner.nextLine () för att ta input från en användare
+
         /*
-         * Returnera digitala roten av ett tal dvs:
-         * ta siffersumman av ett tal om och om igen 
-         * tills du får ett tal mindre än 10. Det
-         * blir den digitala roten. (2 i exemplet nedan)
-         * 18920
-         * - > 1 + 8 + 9 + 2 + 0
-         * - > 20
-         * - > 2 + 0
-         * - > 2
+         * Skriv ett script som ber användaren om ett lösenord.
+         * Om användaren har rätt ska ett meddelande skrivas ut,
+         * som visar att användaren loggats in. Annars ska 
+         * användaren få ett nytt försök.
          */
+        
         return 0;
     }
 
+        public static void fizzBuzz(){
+        /* 
+         * Skriv ut alla tal mellan 1-100
+         * Alla tal delbara på 3 ersätts med fizz
+         * Alla tal delbara med 5 ersätts med buzz
+         * tal delbara med båda skrivs: fizzbuzz
+         * 1
+         * 2
+         * fizz
+         * 4
+         * buzz
+         * fizz
+         * 7
+         * 8
+         * fizz
+         * buzz
+         * 11
+         * fizz
+         * 13
+         * 14
+         * fizzbuzz
+         * 16
+         * ...
+         */
+    }
+
+
     public static void main(String[] args) {
-        System.out.println(digitalRoot(37987));      
+        System.out.println();      
     }
 }
 
