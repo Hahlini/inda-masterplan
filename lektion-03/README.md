@@ -11,10 +11,14 @@ Vi ska gissa namnen :)
 ### Diskussion
 - När ska vi använda getters och setters? När ska vi inte använda dem?
 - Hur måste man göra för att köra fler än en fil?
-- Vad betydde import? Och hur används det?
-- Vad betydde try, catch och throw? Hur används dessa? Varför?
+- Vad betyder import? Och hur används det?
+- Vad betyder try, catch och throw? Hur används dessa? Varför?
+- Vad är en exception?
+- Hur skiljer sig Exception och IllegalArgumentException i java? 
 
 ### Redovisningar
+Beskriv er kod! Gå igenom vad ni byggt och kommentera kring hur det gick till
+
 1. Triangle: konstruktor & validTriangle
    	- Förklara hur din Triangle-klass fungerar
 	- Hur fungerar konstruktorn?
@@ -55,9 +59,9 @@ for(int i = 0; i < 10; i++){
 Öppna sedan Loops.java och gör:
 - skriv ut resultatet av print 1, 2 och 3
 - fizzbuzz (Om någon är klar tidig fizzbuzzrizz, dela 7)
-- gör sedan digital root
+- gör sedan login
 
-### Slutligen
+### Nästa task!
 Var noggranna, gränsfall
 LÄS INSTRUKTIONERNA
 12:59 -> 1:00
