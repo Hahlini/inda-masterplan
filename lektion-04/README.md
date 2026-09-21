@@ -36,7 +36,6 @@
     - Hur har du hanterat dem
 
 ### Lektion
-- Live demo av att köra en fil från en annan
 - Förklara en array. Gärna med visuellt exempel
 ```java
 // ...          [0][1][2][3]
