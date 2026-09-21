@@ -83,9 +83,7 @@ public class Greet {
     
 }
 ```
-
-### Slutligen
-Användbar loop! (for each)
+- När de flesta klara, gå igenom for each:
 ```java
 // List: {4, 5, 3, 10, 2}
 for (int element : list){
@@ -98,3 +96,4 @@ for (int element : list){
 // 10
 // 2
 ```
+- Gör så att `greetPeople` använder en for-each loop
