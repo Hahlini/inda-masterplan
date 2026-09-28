@@ -57,7 +57,11 @@ ArrayList<Integer> numberList = new ArrayList<>();
     A ⋂ Ø = Ø
   - Vad är fördelen med att använda ArrayLists här?
 
-
 ### Lektion
 
 * Se passbyvalue
+
+### Övning
+1. Gör klart MyArrayList.java
+2. Gör MyArrayList till en subklass av List.
+
