@@ -25,11 +25,6 @@ public class MyArrayList {
         // TODO
     }
 
-    // Remove the element at a given index - ÖVERKURS
-    // public void remove(int index) {
-        // TODO
-    // }
-
     // Return the number of elements currently in the list
     public int size() {
         // TODO
