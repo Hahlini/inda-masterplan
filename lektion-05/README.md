@@ -59,7 +59,9 @@ ArrayList<Integer> numberList = new ArrayList<>();
 
 ### Lektion
 
+* Gå igenom subklasser
 * Se passbyvalue
+* Random - Livekoda en liten 
 
 ### Övning
 1. Gör klart MyArrayList.java
