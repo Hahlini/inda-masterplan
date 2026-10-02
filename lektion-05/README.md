@@ -38,6 +38,8 @@ ArrayList<Integer> numberList = new ArrayList<>();
 ```
 
 ### Redovisningar
+Dela in i tre grupper, be dem sätta sig två och två. Varje del av rummet får spana in en delmängd av uppgiften. De får fem minuter för detta.
+
 1. Arrays 5.0 - 5.3
   - Vad är funktion overloading?
   - Hur vet du att funktionerna kommer returnera korrekt?
@@ -60,13 +62,26 @@ ArrayList<Integer> numberList = new ArrayList<>();
 ### Lektion
 
 * Gå igenom subklasser
+  * Skriv upp 'katt', 'hund', 'kanin' - Hur hade du gjort klasser av dem? Få dem att skriva ut metoder och fält
+  * Vad har de gemensamt?
+    * Kodduplicering!
+  * Alternativ: Subklasser!
+  * Vi skapar en 'djur'-klass
+  * Livekoda den?
 * Random - Livekoda en liten coin toss grej
 
 ### Övning
+* Gå igenom olika metoderna i MyArrayList.java
+  * `add(int value)`
+  * `get(int index)`
+  * `set(int index, int value)`
+  * `size()`
+  * `contains(int value)`
+  * `print()`
+
 1. Gör klart MyArrayList.java
 
 ### Avslutning
 * Se passbyvalue
-* Gör MyArrayList till en subklass av List.
 
 
