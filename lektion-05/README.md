@@ -60,7 +60,7 @@ ArrayList<Integer> numberList = new ArrayList<>();
 ### Lektion
 
 * Gå igenom subklasser
-* Random - Livekoda en liten 
+* Random - Livekoda en liten coin toss grej
 
 ### Övning
 1. Gör klart MyArrayList.java
