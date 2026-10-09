@@ -22,7 +22,7 @@ int x = rng.nextInt(6);
 int y = rng.nextInt();
 ```
 - Vad skiljer en if-sats från en ternary operator?
-- Vad blir `int x = x < 0 ? -x : x`?
+- Vad blir `int x = x < 0 ? -x : x;` ?
 - När är det praktiskt att göra en deep/shallow copy?
 - Vad innebär det att skriva ```extends``` på en klass som nedan?
 ```java
