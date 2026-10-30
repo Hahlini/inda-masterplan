@@ -16,7 +16,7 @@ String[] b = text.split(".");
 - Spana in koden ovan
     - Vad är a?
     - Vad är b?
-- Hur skiljer sig en hashmap från en LinkedList?
+- Hur skiljer sig en hashmap från en ArrayList?
 - Vad är en "regex" eller "regular expression"?
 - Vad är skillnaden om en fil heter hamlet.txt och hamlet.java?
 - Vad använder du för klass om du vill läsa text från en fil?
